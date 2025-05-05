@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: jonasborgeslm/gitops
-  newTag: newTag
+  newTag: bbf40516275664191c9db0e898d057a5fb8df17d
